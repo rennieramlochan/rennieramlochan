@@ -11,7 +11,7 @@ Database Specialist | Data Engineer | SQL Developer | BI Analyst
 
 
 
-- [🛠️ Tech Stack](#️- Technical Expertise)
+- [🛠️ Tech Stack](#️-technical-expertise)
 - [🚀 Key Contributions & Technical Achievements](#-key-contributions--technical-achievements)
 - [📂 Featured Projects](#-featured-projects)
 - [🏆 Certifications](#-certifications)
