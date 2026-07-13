@@ -21,18 +21,21 @@ My experience includes:
 - 💼 Database Specialist at the Ministry of Labour and Small Enterprise Development (Trinidad and Tobago)
 - 📊 Passionate about Data Engineering, Business Intelligence, Cloud Data Platforms, and AI
 - 🗄 Experienced in enterprise database administration and optimization
-  
-- 🌱 Currently expanding my expertise in Cloud Data Engineering, Azure, AWS, Python, and AI-powered analytics
+  - 🌱 Currently expanding my expertise in Cloud Data Engineering, Azure, AWS, Python, and AI-powered analytics
 - 🎯 Open to opportunities in:
   - Database Engineering
   - Data Engineering
   - Analytics Engineering
   - Business Intelligence
   - Cloud Data Solutions
-
 ---
 
 ## 🛠️ Tech Stack & Tools
+![Oracle](https://img.shields.io/badge/Oracle-Database-red)
+![SQL Server](https://img.shields.io/badge/Microsoft-SQL_Server-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ### Databases
 - Oracle Database
 - Microsoft SQL Server
@@ -43,6 +46,8 @@ My experience includes:
 - NoSQL Databases
 
 ### Programming
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
 - SQL
 - T-SQL
 - PL/SQL
@@ -52,7 +57,8 @@ My experience includes:
 - CSS
 
 ### Data Engineering
-- ETL Development
+- ETL Pipeline Development
+- Data Cleaning & Transformation
 - Database Design
 - Data Warehousing
 - Data Modeling
@@ -69,7 +75,7 @@ My experience includes:
 - Data Visualization
 - Business Analytics
 
-### Cloud & Tools
+### Cloud & DevOps
 - Microsoft Azure
 - Amazon Web Services (AWS)
 - Git
@@ -163,7 +169,6 @@ Responsibilities include:
 - Enterprise Applications
 - Business Process Automation
 - Business Intelligence Reporting
-
 ---
 
 ## 🌱 Currently Learning
@@ -175,25 +180,6 @@ Responsibilities include:
 - Data Pipelines
 - Cloud Architecture
 ---
-
-## 📈 GitHub Stats
-
-> *(Add these after creating your profile.)*
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rennieramlochan&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rennieramlochan&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rennieramlochan&theme=github-dark)
-```
-
----
-
-
-## 📈 My GitHub Stats
-![Rennie's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
 
 ## 📫 Connect with Me
 - 💼**LinkedIn:** (https://www.linkedin.com/in/rennie-ramlochan-278a8223/)
