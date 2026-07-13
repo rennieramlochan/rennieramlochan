@@ -53,7 +53,7 @@ My work focuses on **Database Engineering, Data Engineering, Business Intelligen
 - [🏆 Certifications](#-certifications)
 - [📚 Professional Learning](#-professional-learning)
 - [🌱 Currently Learning & Exploring](#-currently-learning--exploring) 
-- [📫 Contact](#-contact)
+- [📫 Connect With Me](https://github.com/rennieramlochan/rennieramlochan/edit/main/README.md#-connect-with-me)
 
 
 ---
