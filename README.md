@@ -271,12 +271,22 @@ Completed:
 
 
 
-### IT Infrastructure & Technical Support Path
-![Google](https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### IT Infrastructure,Cybersecurity & Automation Path
+
+![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA-Certified-EA1D22?style=for-the-badge&logo=comptia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge)
 
 Completed:
 
-✅ **Google IT Support Professional Certificate**
+✅Google Cybersecurity Professional Certificate**  
+✅Google IT Support Professional Certificate**  
+✅Google IT Automation with Python Professional Certificate**  
+✅Google Project Management Professional Certificate**  
+✅CompTIA A+ Certification**  
+✅CompTIA Network+ Certification**  
+✅CompTIA Security+ Certification**  
 
 ---
 
