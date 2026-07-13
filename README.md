@@ -116,13 +116,14 @@ My experience includes:
 **Repository:**  
 🔗 `data-engineering-portfolio`
 
-SQL projects demonstrating:
-- Database design and normalization
-- Relational database modeling
-- SQL query optimization
-- Stored procedures and functions
-- Views, indexing and performance tuning
-- Database security and backup strategies
+Projects include:
+
+✅ Data ingestion pipelines  
+✅ Data transformation workflows  
+✅ Data validation  
+✅ Automated reporting  
+✅ Data warehouse concepts
+
 ---
 
 ### 📊 Business Intelligence & Analytics Portfolio
