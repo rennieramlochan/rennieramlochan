@@ -53,8 +53,8 @@ My work focuses on **Database Engineering, Data Engineering, Business Intelligen
 - [🏆 Certifications](#-certifications)
 - [📚 Professional Learning](#-professional-learning)
 - [🌱 Currently Learning & Exploring](#-currently-learning--exploring) 
-- [📫 Connect With Me](-connect-with-me)
-)
+## 📫 Connect With Me
+→ #-connect-with-me
 
 
 ---
