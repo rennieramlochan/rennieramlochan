@@ -19,21 +19,31 @@ I'm a **Database Specialist** with over **15 years of IT experience**, passionat
 I enjoy building reliable data solutions that help organizations transform raw data into meaningful insights and informed decisions.
 My work focuses on **Database Engineering, Data Engineering, Business Intelligence, SQL Development, Data Analytics and Cloud Technologies**.
 
-My experience includes:
-- Enterprise database administration
-- SQL performance optimization
-- Data modeling and architecture
-- ETL pipeline development
-- Business intelligence reporting
-- Application modernization
-- Cloud data solutions
+## 🛠️ Technical Expertise
 
----## 🚀 About Me
+| Category | Skills |
+|---|---|
+|Database Engineering | Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Database Design, Performance Tuning |
+|Data Engineering | ETL Pipelines, Data Transformation, Data Validation, Data Integration, Data Warehousing |
+|Cybersecurity | Security Controls, Access Management, Data Protection, Risk Management |
+|Cloud Technologies | Azure, AWS, Cloud Data Platforms, Cloud Architecture |
+|Analytics & BI | Business Intelligence Reporting, Data Visualization, Analytics Solutions |
+|Automation & Development | Python, SQL Automation, Workflow Automation, System Integration |
 
-- 💼 Database Specialist
-- 📊 Passionate about Data Engineering, Business Intelligence, Cloud Data Platforms, and AI
-- 🗄 Experienced in enterprise database administration and optimization
-  - 🌱 Currently expanding my expertise in Cloud Data Engineering, Azure, AWS, Python, and AI-powered analytics
+---
+
+## 🚀 Key Contributions & Technical Achievements
+
+| Area | Description |
+|---|---|
+|Enterprise Database Engineering | Database administration, design, optimization, and performance management for enterprise environments. Focused on reliability, scalability, availability, and data integrity. |
+|Data Engineering & Analytics Solutions | Development of data pipelines, ETL workflows, data validation processes, and business intelligence reporting solutions. |
+|Database Security & Governance | Implementation of security controls, access management, auditing, and data protection practices. |
+|Backup, Recovery & Business Continuity | Design and support of backup strategies, disaster recovery solutions, and high-availability approaches. |
+|Data Migration & Modernization | Delivery of database migration, modernization, and transformation initiatives to improve scalability and efficiency. |
+|Digital Transformation & Automation | Development of technology solutions that enhance operational processes, automation, collaboration, and service delivery. |
+|Cloud & Emerging Technologies | Exploring cloud data platforms, AI integration, modern analytics platforms, and enterprise automation solutions. |
+
 ---
 
 ## 📌 Profile Navigation
@@ -45,44 +55,13 @@ My experience includes:
 - [🌱 Currently Learning](#-currently-learning)
 - [📫 Contact](#-contact)
 
+
 ---
-  
-## 🛠️ Tech Stack & Tools
-### Databases
-![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Programming
-![SQL](https://img.shields.io/badge/SQL-Database_Query-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📂 Featured Projects
 
-
-
-### Business Intelligence
-![Power BI](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Visualization](https://img.shields.io/badge/Data-Visualization-blue?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboard-Development-purple?style=for-the-badge)
-![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-green?style=for-the-badge)
-
-### Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Data Engineering
+### 🗄⚙️📈Data Engineering Projects
+![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
 ![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-blue?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data-Modeling-purple?style=for-the-badge)
@@ -92,48 +71,23 @@ My experience includes:
 ![Backup Recovery](https://img.shields.io/badge/Backup-Recovery-green?style=for-the-badge)
 ![Performance Tuning](https://img.shields.io/badge/Performance-Tuning-orange?style=for-the-badge)
 ![High Availability](https://img.shields.io/badge/High-Availability-blue?style=for-the-badge)
-- ETL Pipeline Development
-- Data Cleaning & Transformation
-- Database Design
-- Data Warehousing
-- Data Modeling
-- Query Optimization
-- Performance Tuning
-- Database Security
-- Backup & Recovery
-- Data Integration
-
-
----
-
-## 📂 Featured Projects
-
-### 🗄⚙️📈Data Engineering Projects
-![SQL](https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+ 
 
 **Repository:**  
 🔗 `data-engineering-portfolio`
 
-## Projects Involving
 
-✅ Data Engineering & Data Pipeline Development  
-- Data extraction, transformation, and loading (ETL)  
-- Data pipeline development  
-- Automated data workflows  
-
-✅ Data Transformation & Data Quality  
-- Data cleaning and validation  
-- Data validation processes  
-
-✅ Database Integration & Data Management  
-- Database integration  
-- Data warehouse concepts
+| Category | Description |
+|---|---|
+|Data Engineering & Data Pipeline Development| Data extraction, transformation, and loading (ETL), data pipeline development, and automated data workflows. |
+|Data Transformation & Data Quality | Data cleaning, data validation, and implementation of data quality processes to ensure accurate and reliable datasets. |
+|Database Integration & Data Management | Database integration, data management solutions, and data warehouse concepts for scalable information systems. |
 
 ---
 
@@ -141,36 +95,56 @@ My experience includes:
 ![Power BI](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Development-purple?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-green?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Database_Query-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Repository:**  
 🔗 `Business Intelligence & Analytics Portfolio`
 
-Interactive dashboards featuring:
-- Executive reporting
-- KPI reporting  
-- Business analytics  
-- Business insights
-- Data Visualization
-- Statistical Analysis
-- Predictive Analytics
-- Data Storytelling
+| Category | Description |
+|---|---|
+|Interactive Dashboards & Reporting| Development of interactive dashboards supporting executive reporting, KPI tracking, and business analytics. |
+|Business Insights & Data Storytelling | Transforming data into actionable insights through effective visualization and data storytelling techniques. |
+|Data Visualization & Statistical Analysis| Applying visualization techniques and statistical methods to identify trends, patterns, and performance indicators. |
+|Predictive Analytics| Using analytical models and data-driven approaches to support forecasting and informed decision-making. |
 ---
 
-
-### 🐍 Python Automation
+### ☁️ Cloud & DevOps | Cloud Infrastructure | CI/CD | Automation Workflows  
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Database_Query-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 **Repository:**  
-🔗 `Python Automation`
+🔗 `Cloud & DevOps`
 
 Automation scripts for:
-- Database Maintenance
-- Database administration tasks
-- Reporting
-- File Processing & automation
-- Data Transformation
-
+| Category | Description |
+|---|---|
+|Database Maintenance & Administration | Development of automation scripts to streamline database maintenance activities, administration tasks, monitoring, and operational support. |
+|Automated Reporting Solution | Creation of scripts and workflows to automate report generation, data extraction, and reporting processes. |
+|File Processing & Automation | Implementation of automated file handling, processing workflows, and data management tasks to improve efficiency. |
+|Data Transformation Automation| Development of automated processes for data extraction, transformation, validation, and preparation for analysis. |
 ---
 ## 🏆 Certifications
 
@@ -305,26 +279,6 @@ Completed:
 
 
 
-## 💼 Professional Experience
-### Database Specialist
-Major Technology Areas
-
-![Oracle](https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)
-![Drupal](https://img.shields.io/badge/Drupal-CMS-0678BE?style=for-the-badge)
-
-### 🚀 Key Contributions & Technical Achievements
-
-| Area | Description |
-|---|---|
-|**Enterprise Database Engineering** | Database administration, design, optimization, and performance management for enterprise environments. Focused on reliability, scalability, availability, and data integrity. |
-|**Data Engineering & Analytics Solutions** | Development of data pipelines, ETL workflows, data validation processes, and business intelligence reporting solutions. |
-|**Database Security & Governance** | Implementation of security controls, access management, auditing, and data protection practices. |
-|**Backup, Recovery & Business Continuity** | Design and support of backup strategies, disaster recovery solutions, and high-availability approaches. |
-|**Data Migration & Modernization** | Delivery of database migration, modernization, and transformation initiatives to improve scalability and efficiency. |
-|**Digital Transformation & Automation** | Development of technology solutions that enhance operational processes, automation, collaboration, and service delivery. |
-|**Cloud & Emerging Technologies** | Exploring cloud data platforms, AI integration, modern analytics platforms, and enterprise automation solutions. |
 
 ---
 
