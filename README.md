@@ -329,29 +329,14 @@ Key Contributions:
 
 ---
 
+## 📫 Connect With Me
 
----
+💼 LinkedIn: [Rennie Ramlochan](https://www.linkedin.com/in/rennie-ramlochan-278a8223/)  
+🌐 GitHub: [rennieramlochan](https://github.com/rennieramlochan)  
+📧 Email: Rennieramlochan@gmail.com  
 
-## 📫 Connect with Me
-- 💼**LinkedIn:** (https://www.linkedin.com/in/rennie-ramlochan-278a8223/)
-- 🌐**GitHub:**   (https://github.com/rennieramlochan)
-- **Email:**       Rennieramlochan@gmail.com
-
-## 💡 Motto
-
-> *"Turning data into insights, and insights into smarter decisions."*
----
-
-## ⭐ Thanks for Visiting!
-If you enjoy my projects, feel free to:
-⭐ Star a repository
-🍴 Fork a project
-🤝 Connect with me on LinkedIn
-
-💬 Reach out for collaboration
-
-Happy Coding! 🚀
-
+⭐ Explore my projects, connect and collaborate.
+⭐ Thanks for Visiting!  🚀 Happy Coding!
 
 
 
