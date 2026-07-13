@@ -289,43 +289,20 @@ Completed:
 
 # 🌱 Currently Learning & Exploring
 
-
-## ☁️ Cloud Data Engineering
-
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-- Azure Data Engineering
-- AWS Data Services
-- Cloud Architecture
-- Data Platforms
-
-
----
-
-## 🔥 Modern Data Platforms
-
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-- Microsoft Fabric
-- Apache Spark
-- Data Lake Architecture
-- Big Data Processing
-
-
----
-
-## 🤖 AI & Analytics
-
 ![AI](https://img.shields.io/badge/Artificial-Intelligence-purple?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative-AI-black?style=for-the-badge)
 
-- AI-powered analytics
-- Generative AI solutions
-- Machine Learning fundamentals
-- AI integration into enterprise systems
+☁️ Cloud Data Engineering | Azure & AWS Data Services | Cloud Architecture | Data Platforms  
+
+🔥 Modern Data Platforms | Microsoft Fabric | Apache Spark | Data Lake Architecture | Big Data Processing  
+
+🤖 AI & Analytics | AI-powered Analytics | Generative AI | Machine Learning Fundamentals | Enterprise AI Integration
+
 
 
 ## 💼 Professional Experience
