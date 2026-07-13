@@ -253,7 +253,6 @@ Projects covering:
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-Technologies-orange?style=for-the-badge)
 
-
 Continuous professional development in:
 
 - Database Engineering
@@ -343,3 +342,8 @@ If you enjoy my projects, feel free to:
 💬 Reach out for collaboration
 
 Happy Coding! 🚀
+
+
+
+
+
