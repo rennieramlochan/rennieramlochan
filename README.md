@@ -156,13 +156,6 @@ Interactive dashboards featuring:
 - Data Storytelling
 ---
 
-Projects involving:
-- Data extraction, transformation, and loading (ETL)
-- Data cleaning and validation
-- Automated data workflows
-- Data pipeline development
-- Database integration
----
 
 ### 🐍 Python Automation
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
