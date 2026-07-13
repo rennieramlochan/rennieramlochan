@@ -316,15 +316,15 @@ Major Technology Areas
 
 ### 🚀 Key Contributions & Technical Achievements
 
-✅ Enterprise Database Administration  
-✅ SQL Optimization & Performance Tuning  
-✅ Database Security & Data Governance  
-✅ Backup, Recovery & Disaster Recovery Solutions  
-✅ Data Migration & Database Modernization  
-✅ Business Intelligence & Analytics Reporting  
-✅ Digital Transformation & Automation Initiatives
-
-
+| Area | Description |
+|---|---|
+|**Enterprise Database Engineering** | Database administration, design, optimization, and performance management for enterprise environments. Focused on reliability, scalability, availability, and data integrity. |
+|**Data Engineering & Analytics Solutions** | Development of data pipelines, ETL workflows, data validation processes, and business intelligence reporting solutions. |
+|**Database Security & Governance** | Implementation of security controls, access management, auditing, and data protection practices. |
+|**Backup, Recovery & Business Continuity** | Design and support of backup strategies, disaster recovery solutions, and high-availability approaches. |
+|**Data Migration & Modernization** | Delivery of database migration, modernization, and transformation initiatives to improve scalability and efficiency. |
+|**Digital Transformation & Automation** | Development of technology solutions that enhance operational processes, automation, collaboration, and service delivery. |
+|**Cloud & Emerging Technologies** | Exploring cloud data platforms, AI integration, modern analytics platforms, and enterprise automation solutions. |
 
 ---
 
@@ -336,7 +336,4 @@ Major Technology Areas
 
 ⭐ Explore my projects, connect and collaborate.
 ⭐ Thanks for Visiting!  🚀 Happy Coding!
-
-
-
 
