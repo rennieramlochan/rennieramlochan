@@ -6,11 +6,8 @@
 
 
 <h3 align="center">
-Database Specialist | Data Engineer | SQL Developer | BI Analyst
-</h3>
 
-
-
+## 📌 Profile Navigation
 - [🛠️ Tech Stack](#️-technical-expertise)
 - [🚀 Key Contributions & Technical Achievements](#-key-contributions--technical-achievements)
 - [📂 Featured Projects](#-featured-projects)
@@ -18,6 +15,14 @@ Database Specialist | Data Engineer | SQL Developer | BI Analyst
 - [📚 Professional Learning](#-professional-learning-journey)
 - [🌱 Currently Learning & Exploring](#-currently-learning--exploring)
 - [📫 Connect With Me](#-connect-with-me)
+
+
+ 
+Database Specialist | Data Engineer | SQL Developer | BI Analyst
+</h3>
+
+
+
 
 # 👋 Hi there, I'm Rennie Ramlochan!
 ### Database Specialist | Data Engineer | Business Intelligence | SQL Developer
@@ -52,18 +57,6 @@ My work focuses on **Database Engineering, Data Engineering, Business Intelligen
 |Data Migration & Modernization | Delivery of database migration, modernization, and transformation initiatives to improve scalability and efficiency. |
 |Digital Transformation & Automation | Development of technology solutions that enhance operational processes, automation, collaboration, and service delivery. |
 |Cloud & Emerging Technologies | Exploring cloud data platforms, AI integration, modern analytics platforms, and enterprise automation solutions. |
-
----
-
-## 📌 Profile Navigation
-
-- [🛠️ Tech Stack](#️-Technical Expertise)
-- [📂 Featured Projects](#-featured-projects)
-- [🏆 Certifications](#-certifications)
-- [📚 Professional Learning](#-professional-learning)
-- [🌱 Currently Learning & Exploring](#-currently-learning--exploring) 
-
-
 
 
 ---
