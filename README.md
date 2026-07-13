@@ -43,7 +43,6 @@ My experience includes:
 - [🏆 Certifications](#-certifications)
 - [📚 Professional Learning](#-professional-learning)
 - [🌱 Currently Learning](#-currently-learning)
-- [📊 GitHub Statistics](#-github-statistics)
 - [📫 Contact](#-contact)
 
 ---
@@ -56,13 +55,6 @@ My experience includes:
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-- Oracle Database
-- Microsoft SQL Server
-- MySQL
-- PostgreSQL
-- MongoDB
-- Firebase
-- NoSQL Databases
 
 ### Programming
 ![SQL](https://img.shields.io/badge/SQL-Database_Query-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -72,13 +64,23 @@ My experience includes:
 ![JavaScript](https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- SQL
-- T-SQL
-- PL/SQL
-- Python
-- JavaScript
-- HTML
-- CSS
+
+
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Development-purple?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-green?style=for-the-badge)
+
+### Cloud & DevOps
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Data Engineering
 ![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
@@ -101,32 +103,7 @@ My experience includes:
 - Backup & Recovery
 - Data Integration
 
-### Business Intelligence
-![Power BI](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Visualization](https://img.shields.io/badge/Data-Visualization-blue?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboard-Development-purple?style=for-the-badge)
-![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-green?style=for-the-badge)
-- Microsoft Power BI
-- Dashboard Development
-- KPI Reporting
-- Data Visualization
-- Business Analytics
 
-### Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Git
-- GitHub
-- Docker
-- Linux
 ---
 
 ## 📂 Featured Projects
@@ -135,6 +112,9 @@ My experience includes:
 ![SQL](https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Repository:**  
+🔗 `data-engineering-portfolio`
 
 SQL projects demonstrating:
 - Database design and normalization
@@ -150,18 +130,27 @@ SQL projects demonstrating:
 ![Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=for-the-badge)
 
+**Repository:**  
+🔗 `Business Intelligence & Analytics Portfolio`
+
 Interactive dashboards featuring:
- - Executive reporting
-- KPI analysis
-- Data storytelling
+- Executive reporting
+- KPI reporting  
+- Business analytics  
 - Business insights
 - Data Visualization
+- Statistical Analysis
+- Predictive Analytics
+- Data Storytelling
 ---
 
-### ⚙️ Data Engineering Projects
+### ⚙️ 📈Data Engineering Projects
 ![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Repository:**  
+🔗 `Data Engineering Projects Portfolio`
 
 Projects involving:
 - Data extraction, transformation, and loading (ETL)
@@ -175,20 +164,16 @@ Projects involving:
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
 
+**Repository:**  
+🔗 `Python Automation`
+
 Automation scripts for:
 - Database Maintenance
 - Database administration tasks
 - Reporting
 - File Processing & automation
 - Data Transformation
----
 
-### 📈 Data Analytics
-Projects covering:
-- Exploratory Data Analysis
-- Statistical Analysis
-- Predictive Analytics
-- Data Storytelling
 ---
 ## 🏆 Certifications
 
@@ -249,12 +234,8 @@ Projects covering:
 
 # 📚 Professional Learning Journey
 
-![Coursera](https://img.shields.io/badge/Coursera-Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Technologies-orange?style=for-the-badge)
 
 Continuous professional development in:
-
 - Database Engineering
 - Data Engineering
 - Cloud Computing
@@ -265,11 +246,37 @@ Continuous professional development in:
 
 Learning platforms:
 
+![Coursera](https://img.shields.io/badge/Coursera-Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Technologies-orange?style=for-the-badge)
 ![Google](https://img.shields.io/badge/Google-Learning-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-Learning-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-Learning-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+
+### Data Engineering Path
+![IBM](https://img.shields.io/badge/IBM-Data_Engineering-052FAD?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge)
+![Meta](https://img.shields.io/badge/Meta-Database_Engineer-0467DF?style=for-the-badge)
+
+Completed:
+
+✅ IBM Data Engineering Professional Certificate  
+✅ IBM Data Warehouse Engineer Certificate  
+✅ Meta Database Engineer Professional Certificate  
+✅ Google Data Analytics Professional Certificate  
+✅ Google Advanced Data Analytics Professional Certificate
+ 
+
+
+
+### IT Infrastructure & Technical Support Path
+![Google](https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+Completed:
+
+✅ **Google IT Support Professional Certificate**
 
 ---
 
