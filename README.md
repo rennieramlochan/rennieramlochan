@@ -10,6 +10,15 @@ Database Specialist | Data Engineer | SQL Developer | BI Analyst
 </h3>
 
 
+
+- [🛠️ Technical Expertise](#-technical-expertise)
+- [🚀 Key Contributions & Technical Achievements](#-key-contributions--technical-achievements)
+- [📂 Featured Projects](#-featured-projects)
+- [🏆 Certifications](#-certifications)
+- [📚 Professional Learning](#-professional-learning-journey)
+- [🌱 Currently Learning & Exploring](#-currently-learning--exploring)
+- [📫 Connect With Me](#-connect-with-me)
+
 # 👋 Hi there, I'm Rennie Ramlochan!
 ### Database Specialist | Data Engineer | Business Intelligence | SQL Developer
 
