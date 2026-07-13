@@ -333,6 +333,24 @@ Completed:
 
 ## 💼 Professional Experience
 ### Database Specialist
+### Major Technology Areas
+
+![Oracle](https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)
+![Drupal](https://img.shields.io/badge/Drupal-CMS-0678BE?style=for-the-badge)
+
+
+Key Contributions:
+
+- Enterprise database administration
+- SQL optimization and performance tuning
+- Database security implementation
+- Backup and disaster recovery planning
+- Data migration and modernization initiatives
+- Business intelligence reporting
+- Digital transformation projects
+
 
 
 ---
