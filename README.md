@@ -1,11 +1,24 @@
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=200&section=header&text=Rennie%20Ramlochan&fontSize=50&fontColor=ffffff"/>
-
 </p>
-
-
 <h3 align="center">
+Database Specialist | Data Engineer | SQL Developer | BI Analyst
+</h3>
+
+---
+
+
+# 👋 Hi there, I'm Rennie Ramlochan!
+
+### Database Specialist | Data Engineer | Business Intelligence | SQL Developer
+
+Welcome to my GitHub profile! 
+
+I'm a **Database Specialist** with over **15 years of IT experience**, passionate about building scalable databases,developing data-driven solutions and transforming complex data into meaningful business insights.
+I enjoy building reliable data solutions that help organizations transform raw data into meaningful insights and informed decisions.
+My work focuses on **Database Engineering, Data Engineering, Business Intelligence, SQL Development, Data Analytics and Cloud Technologies**.
+
+---
 
 ## 📌 Profile Navigation
 - [🛠️ Tech Stack](#️-technical-expertise)
@@ -16,23 +29,8 @@
 - [🌱 Currently Learning & Exploring](#-currently-learning--exploring)
 - [📫 Connect With Me](#-connect-with-me)
 
-
+---
  
-Database Specialist | Data Engineer | SQL Developer | BI Analyst
-</h3>
-
-
-
-
-# 👋 Hi there, I'm Rennie Ramlochan!
-### Database Specialist | Data Engineer | Business Intelligence | SQL Developer
-
-Welcome to my GitHub profile! 
-
-I'm a **Database Specialist** with over **15 years of IT experience**, passionate about building scalable databases,developing data-driven solutions and transforming complex data into meaningful business insights.
-I enjoy building reliable data solutions that help organizations transform raw data into meaningful insights and informed decisions.
-My work focuses on **Database Engineering, Data Engineering, Business Intelligence, SQL Development, Data Analytics and Cloud Technologies**.
-
 ## 🛠️ Technical Expertise
 
 | Category | Skills |
