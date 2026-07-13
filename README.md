@@ -108,21 +108,32 @@ My experience includes:
 
 ## 📂 Featured Projects
 
-### 🗄 Database Engineering Portfolio
+### 🗄⚙️📈Data Engineering Projects
 ![SQL](https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Repository:**  
 🔗 `data-engineering-portfolio`
 
-Projects include:
+## Projects Involving
 
-✅ Data ingestion pipelines  
-✅ Data transformation workflows  
-✅ Data validation  
-✅ Automated reporting  
-✅ Data warehouse concepts
+✅ Data Engineering & Data Pipeline Development  
+- Data extraction, transformation, and loading (ETL)  
+- Data pipeline development  
+- Automated data workflows  
+
+✅ Data Transformation & Data Quality  
+- Data cleaning and validation  
+- Data validation processes  
+
+✅ Database Integration & Data Management  
+- Database integration  
+- Data warehouse concepts
 
 ---
 
@@ -144,14 +155,6 @@ Interactive dashboards featuring:
 - Predictive Analytics
 - Data Storytelling
 ---
-
-### ⚙️ 📈Data Engineering Projects
-![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Repository:**  
-🔗 `Data Engineering Projects Portfolio`
 
 Projects involving:
 - Data extraction, transformation, and loading (ETL)
