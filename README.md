@@ -5,15 +5,23 @@ Welcome to my GitHub profile!
 
 I'm a **Database Specialist** with over **15 years of IT experience**, passionate about building scalable databases,developing data-driven solutions and transforming complex data into meaningful business insights.
 I enjoy building reliable data solutions that help organizations transform raw data into meaningful insights and informed decisions.
+My work focuses on **Database Engineering, Data Engineering, Business Intelligence, SQL Development, Data Analytics and Cloud Technologies**.
 
-My work focuses on **Database Engineering, Data Engineering, Business Intelligence, SQL Development, Data Analytics, and Cloud Technologies**.
-
+My experience includes:
+- Enterprise database administration
+- SQL performance optimization
+- Data modeling and architecture
+- ETL pipeline development
+- Business intelligence reporting
+- Application modernization
+- Cloud data solutions
 
 ---## 🚀 About Me
 
 - 💼 Database Specialist at the Ministry of Labour and Small Enterprise Development (Trinidad and Tobago)
 - 📊 Passionate about Data Engineering, Business Intelligence, Cloud Data Platforms, and AI
 - 🗄 Experienced in enterprise database administration and optimization
+  
 - 🌱 Currently expanding my expertise in Cloud Data Engineering, Azure, AWS, Python, and AI-powered analytics
 - 🎯 Open to opportunities in:
   - Database Engineering
