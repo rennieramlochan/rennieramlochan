@@ -13,6 +13,24 @@ Database Specialist | Data Engineer | SQL Developer | BI Analyst
 # 👋 Hi there, I'm Rennie Ramlochan!
 ### Database Specialist | Data Engineer | Business Intelligence | SQL Developer
 
+```markdown
+## 📌 Profile Navigation
+
+🔹 [👋 About Me](#-about-me)  
+🔹 [🛠️ Technical Skills](#-technical-skills)  
+🔹 [🚀 Key Contributions & Technical Achievements](#-key-contributions--technical-achievements)  
+🔹 [📂 Featured Projects](#-featured-projects)  
+🔹 [🔄 Data Engineering Projects](#-data-engineering-projects)  
+🔹 [📊 Analytics & Business Intelligence Projects](#-analytics--business-intelligence-projects)  
+🔹 [⚙️ Automation & Scripting Projects](#️-automation--scripting-projects)  
+🔹 [☁️ Cloud & Emerging Technologies](#️-cloud--emerging-technologies)  
+🔹 [🌱 Currently Learning & Exploring](#-currently-learning--exploring)  
+🔹 [📜 Certifications & Professional Development](#-certifications--professional-development)  
+🔹 [📫 Connect With Me](#-connect-with-me)
+```
+
+
+
 Welcome to my GitHub profile! 
 
 I'm a **Database Specialist** with over **15 years of IT experience**, passionate about building scalable databases,developing data-driven solutions and transforming complex data into meaningful business insights.
