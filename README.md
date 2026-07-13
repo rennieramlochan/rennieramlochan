@@ -11,7 +11,7 @@ Database Specialist | Data Engineer | SQL Developer | BI Analyst
 
 
 
-- [🛠️ Tech Stack](#️-Technical Expertise)
+- [🛠️ Tech Stack](#️- Technical Expertise)
 - [🚀 Key Contributions & Technical Achievements](#-key-contributions--technical-achievements)
 - [📂 Featured Projects](#-featured-projects)
 - [🏆 Certifications](#-certifications)
@@ -62,7 +62,7 @@ My work focuses on **Database Engineering, Data Engineering, Business Intelligen
 - [🏆 Certifications](#-certifications)
 - [📚 Professional Learning](#-professional-learning)
 - [🌱 Currently Learning & Exploring](#-currently-learning--exploring) 
-## 📫 Connect With Me
+
 
 
 
