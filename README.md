@@ -18,16 +18,10 @@ My experience includes:
 
 ---## 🚀 About Me
 
-- 💼 Database Specialist at the Ministry of Labour and Small Enterprise Development (Trinidad and Tobago)
+- 💼 Database Specialist
 - 📊 Passionate about Data Engineering, Business Intelligence, Cloud Data Platforms, and AI
 - 🗄 Experienced in enterprise database administration and optimization
   - 🌱 Currently expanding my expertise in Cloud Data Engineering, Azure, AWS, Python, and AI-powered analytics
-- 🎯 Open to opportunities in:
-  - Database Engineering
-  - Data Engineering
-  - Analytics Engineering
-  - Business Intelligence
-  - Cloud Data Solutions
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -114,39 +108,54 @@ My experience includes:
 ## 📂 Featured Projects
 
 ### 🗄 Database Engineering Portfolio
+![SQL](https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 SQL projects demonstrating:
-- Database Design
-- Normalization
-- Stored Procedures
-- Views
-- Triggers
-- Indexing
-- Query Optimization
+- Database design and normalization
+- Relational database modeling
+- SQL query optimization
+- Stored procedures and functions
+- Views, indexing and performance tuning
+- Database security and backup strategies
 ---
 
-### 📊 Power BI Portfolio
+### 📊 Business Intelligence & Analytics Portfolio
+![Power BI](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=for-the-badge)
+
 Interactive dashboards featuring:
-- Executive Dashboards
-- KPI Reporting
-- Sales Analytics
-- HR Analytics
+ - Executive reporting
+- KPI analysis
+- Data storytelling
+- Business insights
 - Data Visualization
 ---
 
 ### ⚙️ Data Engineering Projects
+![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-005571?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 Projects involving:
-- Python
-- ETL Pipelines
-- Data Cleaning
-- Automation
-- Workflow Optimization
+- Data extraction, transformation, and loading (ETL)
+- Data cleaning and validation
+- Automated data workflows
+- Data pipeline development
+- Database integration
 ---
 
 ### 🐍 Python Automation
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
+
 Automation scripts for:
 - Database Maintenance
+- Database administration tasks
 - Reporting
-- File Processing
+- File Processing & automation
 - Data Transformation
 ---
 
@@ -159,53 +168,136 @@ Projects covering:
 ---
 ## 🏆 Certifications
 
-### Google
-- Google Data Analytics Professional Certificate
-- Google Advanced Data Analytics Professional Certificate
-- Google IT Automation with Python Professional Certificate
-- Google IT Support Professional Certificate
-- Google Project Management Professional Certificate
+### Google Professional Certificates
 
-### IBM
-- IBM Data Engineering Professional Certificate
-- IBM Data Warehouse Engineer Certificate
+![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Meta
-- Meta Database Engineer Professional Certificate
-
-### Microsoft
-- Microsoft Power BI Data Analyst Professional Certificate
-
-### CompTIA
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
+| Certification | Focus Area |
+|---|---|
+| Google Data Analytics Professional Certificate | Data Analytics, SQL, Visualization |
+| Google Advanced Data Analytics Professional Certificate | Statistics, Python, Machine Learning |
+| Google IT Automation with Python | Python Automation |
+| Google IT Support Professional Certificate | IT Infrastructure |
+| Google Project Management Professional Certificate | Project Management |
 
 ---
+
+### IBM Professional Certificates
+
+![IBM](https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+| Certification | Focus Area |
+|---|---|
+| IBM Data Engineering Professional Certificate | Data Engineering, ETL, Databases |
+| IBM Data Warehouse Engineer Certificate | Data Warehousing, BI Solutions |
+
+---
+
+### Meta Professional Certificate
+![Meta](https://img.shields.io/badge/Meta-Certified-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+| Certification | Focus Area |
+|---|---|
+| Meta Database Engineer Professional Certificate | SQL, Database Design, Backend Development |
+
+
+---
+
+### Microsoft Certification
+![Microsoft](https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+| Certification | Focus Area |
+|---|---|
+| Microsoft Power BI Data Analyst Professional Certificate | Business Intelligence, Data Visualization |
+
+
+---
+### CompTIA Certifications
+![CompTIA](https://img.shields.io/badge/CompTIA-Certified-red?style=for-the-badge)
+
+| Certification | Focus Area |
+|---|---|
+| CompTIA A+ | IT Support & Hardware |
+| CompTIA Network+ | Networking |
+| CompTIA Security+ | Cybersecurity Fundamentals |
+
+---
+
+# 📚 Professional Learning Journey
+
+![Coursera](https://img.shields.io/badge/Coursera-Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Technologies-orange?style=for-the-badge)
+
+
+Continuous professional development in:
+
+- Database Engineering
+- Data Engineering
+- Cloud Computing
+- Business Intelligence
+- Artificial Intelligence
+- Cybersecurity
+- Enterprise Application Development
+
+Learning platforms:
+
+![Google](https://img.shields.io/badge/Google-Learning-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-Learning-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Learning-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+---
+
+# 🌱 Currently Learning & Exploring
+
+
+## ☁️ Cloud Data Engineering
+
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+- Azure Data Engineering
+- AWS Data Services
+- Cloud Architecture
+- Data Platforms
+
+
+---
+
+## 🔥 Modern Data Platforms
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+- Microsoft Fabric
+- Apache Spark
+- Data Lake Architecture
+- Big Data Processing
+
+
+---
+
+## 🤖 AI & Analytics
+
+![AI](https://img.shields.io/badge/Artificial-Intelligence-purple?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative-AI-black?style=for-the-badge)
+
+- AI-powered analytics
+- Generative AI solutions
+- Machine Learning fundamentals
+- AI integration into enterprise systems
+
 
 ## 💼 Professional Experience
 ### Database Specialist
-**Ministry of Labour and Small Enterprise Development**
-Responsibilities include:
-- Database Administration
-- Performance Tuning
-- SQL Development
-- Database Security
-- Backup & Recovery
-- Data Integration
-- Enterprise Applications
-- Business Process Automation
-- Business Intelligence Reporting
+
+
 ---
 
-## 🌱 Currently Learning
-- Microsoft Fabric
-- Azure Data Engineering
-- AWS Data Engineering
-- AI for Data Analytics
-- Apache Spark
-- Data Pipelines
-- Cloud Architecture
+
 ---
 
 ## 📫 Connect with Me
