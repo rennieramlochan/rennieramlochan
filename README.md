@@ -244,7 +244,7 @@ Continuous professional development in:
 - Cybersecurity
 - Enterprise Application Development
 
-###Learning platforms:
+### Learning platforms:
 
 ![Coursera](https://img.shields.io/badge/Coursera-Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
