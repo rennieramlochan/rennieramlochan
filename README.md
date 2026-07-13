@@ -280,13 +280,13 @@ Completed:
 
 Completed:
 
-✅Google Cybersecurity Professional Certificate**  
-✅Google IT Support Professional Certificate**  
-✅Google IT Automation with Python Professional Certificate**  
-✅Google Project Management Professional Certificate**  
-✅CompTIA A+ Certification**  
-✅CompTIA Network+ Certification**  
-✅CompTIA Security+ Certification**  
+✅ Google Cybersecurity Professional Certificate  
+✅ Google IT Support Professional Certificate  
+✅ Google IT Automation with Python Professional Certificate  
+✅ Google Project Management Professional Certificate  
+✅ CompTIA A+ Certification  
+✅ CompTIA Network+ Certification  
+✅ CompTIA Security+ Certification  
 
 ---
 
