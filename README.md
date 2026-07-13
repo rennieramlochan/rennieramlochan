@@ -1,3 +1,15 @@
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=200&section=header&text=Rennie%20Ramlochan&fontSize=50&fontColor=ffffff"/>
+
+</p>
+
+
+<h3 align="center">
+Database Specialist | Data Engineer | SQL Developer | BI Analyst
+</h3>
+
+
 # 👋 Hi there, I'm Rennie Ramlochan!
 ### Database Specialist | Data Engineer | Business Intelligence | SQL Developer
 
@@ -24,6 +36,18 @@ My experience includes:
   - 🌱 Currently expanding my expertise in Cloud Data Engineering, Azure, AWS, Python, and AI-powered analytics
 ---
 
+## 📌 Profile Navigation
+
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Featured Projects](#-featured-projects)
+- [🏆 Certifications](#-certifications)
+- [📚 Professional Learning](#-professional-learning)
+- [🌱 Currently Learning](#-currently-learning)
+- [📊 GitHub Statistics](#-github-statistics)
+- [📫 Contact](#-contact)
+
+---
+  
 ## 🛠️ Tech Stack & Tools
 ### Databases
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
